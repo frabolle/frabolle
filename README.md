@@ -4,10 +4,9 @@ I am Francesco 🇮🇹, a Master Student in Applied Mathematics at EPFL.
 
 Here you can find a collection of different problems, challenges and frameworks regarding:
 
-
-Markup: *Machine Learning 📈,
-        *Optimization 🎯,
-        *Data Analysis 📊
+* Machine Learning 📈,
+* Optimization 🎯,
+* Data Analysis 📊
         
 that I have solved and implemented during the last few years 📆 and I can share publicly 🔓.
 
