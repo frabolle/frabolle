@@ -1,6 +1,6 @@
 Hello World 🌍,
 
-I am Francesco 🇮🇹, a Master Student in Applied Mathematics at EPFL.
+I am Francesco 🇮🇹, an EPFL alumnus with a Master's degree in Applied Mathematics now working as a Data Scientist at Descartes Underwriting.
 
 Here you can find a collection of different problems, challenges and frameworks regarding:
 
